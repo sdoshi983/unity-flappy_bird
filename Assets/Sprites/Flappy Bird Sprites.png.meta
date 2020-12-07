@@ -1,7 +1,109 @@
 fileFormatVersion: 2
 guid: 86b4042c4d5e87f438970cffeb2a3dfa
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6254297855602184059
+    second: GoldenPipe
+  - first:
+      213: -1446630399955053974
+    second: GreenPipe
+  - first:
+      213: 7639703789202663196
+    second: FlappyBirdBlue1
+  - first:
+      213: 4959930989637110683
+    second: FlappyRedBird1
+  - first:
+      213: -1832971715830722056
+    second: FlappyGreenBird1
+  - first:
+      213: 2412324547777011209
+    second: Flappy Bird Sprites_5
+  - first:
+      213: -2004359676323012058
+    second: Flappy Bird Sprites_6
+  - first:
+      213: 5140492561284378634
+    second: Instructions
+  - first:
+      213: -576933914401932536
+    second: FFlappyBirdBlue2
+  - first:
+      213: -4371099951211164957
+    second: FlappyRedBird2
+  - first:
+      213: 252386641032843952
+    second: FlappyGreenBird2
+  - first:
+      213: 111172283438338438
+    second: Flappy Bird Sprites_11
+  - first:
+      213: -5181194430848802102
+    second: FlappyBirdBlue3
+  - first:
+      213: -8686035819236301637
+    second: FlappyRedBird3
+  - first:
+      213: 893187905295618055
+    second: FlappyGreenBird3
+  - first:
+      213: -1237444684384467597
+    second: Flappy Bird Sprites_15
+  - first:
+      213: 2766558838143483615
+    second: Flappy Bird Sprites_16
+  - first:
+      213: -7257300506590164176
+    second: Flappy Bird Sprites_17
+  - first:
+      213: 4381356264844738291
+    second: FlappyBirdBlue4
+  - first:
+      213: -7732161631704433308
+    second: FlappyRedBird4
+  - first:
+      213: -5306503162392590065
+    second: FlappyGreenBird4
+  - first:
+      213: 6678224800518271436
+    second: PauseMenu
+  - first:
+      213: 6519367519855379763
+    second: Flappy Bird Sprites_22
+  - first:
+      213: -6462699529281187060
+    second: Flappy Bird Sprites_23
+  - first:
+      213: 3755815422007417192
+    second: BronzeMedal
+  - first:
+      213: 4059762669117696758
+    second: GoldMedal
+  - first:
+      213: -7289325287177181031
+    second: SilverMedal
+  - first:
+      213: 7848166926866087734
+    second: PauseGameButton
+  - first:
+      213: -4860639630070131219
+    second: ResumeGameButton
+  - first:
+      213: -8436936780237523554
+    second: Background
+  - first:
+      213: 7463879149399538272
+    second: Flappy Bird Sprites_30
+  - first:
+      213: 7665679511463452981
+    second: PlayGameButton
+  - first:
+      213: 3802307496682136100
+    second: LeaderBoardButton
+  - first:
+      213: -6552382079645713034
+    second: ConnectOnTwitterButton
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +143,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +165,31 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -75,7 +201,595 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GoldenPipe
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 461
+        width: 91
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc7a253cabbc650800000000000000
+      internalID: 6254297855602184059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPipe
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 460
+        width: 91
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d569d0598cebe0800000000000000
+      internalID: -1446630399955053974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBirdBlue1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1003
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1761a09e1ea50a60800000000000000
+      internalID: 7639703789202663196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyRedBird1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1003
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b85cbc4f635d440800000000000000
+      internalID: 4959930989637110683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyGreenBird1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1005
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1529a9fe9ff86e0800000000000000
+      internalID: -1832971715830722056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instructions
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 840
+        width: 321
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b4edbfb2b65740800000000000000
+      internalID: 5140492561284378634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FFlappyBirdBlue2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 925
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b723d59a15ef7f0800000000000000
+      internalID: -576933914401932536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyRedBird2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 925
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac452e0cbb653c0800000000000000
+      internalID: -4371099951211164957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyGreenBird2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 927
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b211d41058a08300800000000000000
+      internalID: 252386641032843952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBirdBlue3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 844
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac26605cd13b818b0800000000000000
+      internalID: -5181194430848802102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyRedBird3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 843
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4e9186170057780800000000000000
+      internalID: -8686035819236301637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyGreenBird3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 846
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70012d4eaad356c00800000000000000
+      internalID: 893187905295618055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBirdBlue4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 759
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feb0883f44bdcc30800000000000000
+      internalID: 4381356264844738291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyRedBird4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 759
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d3a5476f7d1b490800000000000000
+      internalID: -7732161631704433308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyGreenBird4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 761
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094a162d738b56b0800000000000000
+      internalID: -5306503162392590065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseMenu
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 570
+        width: 496
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17815c212ddac50800000000000000
+      internalID: 6678224800518271436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 597
+        width: 167
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335033dd732797a50800000000000000
+      internalID: 6519367519855379763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 597
+        width: 165
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035c1bd401ef46a0800000000000000
+      internalID: -6462699529281187060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BronzeMedal
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 462
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699fa62a365f1430800000000000000
+      internalID: 3755815422007417192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldMedal
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 462
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae62553ac275830800000000000000
+      internalID: 4059762669117696758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SilverMedal
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 461
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9982885954d17da90800000000000000
+      internalID: -7289325287177181031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseGameButton
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 471
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f72d51d3a4aec60800000000000000
+      internalID: 7848166926866087734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResumeGameButton
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 476
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5db7c520a8b8cb0800000000000000
+      internalID: -4860639630070131219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 213
+        width: 721
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b38df2baf9ea80800000000000000
+      internalID: -8436936780237523554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 208
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a77628a86059760800000000000000
+      internalID: 7463879149399538272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayGameButton
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 255
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e4c2b6e6f16a60800000000000000
+      internalID: 7665679511463452981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeaderBoardButton
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 41
+        width: 258
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4222b82d58284c430800000000000000
+      internalID: 3802307496682136100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConnectOnTwitterButton
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67df41ee6334115a0800000000000000
+      internalID: -6552382079645713034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
