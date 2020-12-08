@@ -91,7 +91,7 @@ TextureImporter:
     second: ResumeGameButton
   - first:
       213: -8436936780237523554
-    second: Background
+    second: Ground
   - first:
       213: 7463879149399538272
     second: Flappy Bird Sprites_30
@@ -686,13 +686,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Background
+      name: Ground
       rect:
         serializedVersion: 2
-        x: 22
-        y: 213
-        width: 721
-        height: 240
+        x: 24
+        y: 217
+        width: 716
+        height: 232
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
