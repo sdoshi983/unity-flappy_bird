@@ -27,6 +27,8 @@ public class BirdScript : MonoBehaviour
         isAlive = true;
         flapButton = GameObject.FindGameObjectWithTag("FlapButton").GetComponent<Button>();
         flapButton.onClick.AddListener(() => FlapTheBird());
+
+        SetCamerasX();
     }
 
     private void FixedUpdate()
@@ -54,6 +56,16 @@ public class BirdScript : MonoBehaviour
             }
         }
 
+    }
+
+    void SetCamerasX()
+    {
+        CameraScript.offsetX = Camera.main.transform.position.x - transform.position.x - 1f;
+    }
+
+    public float GetPositionX()
+    {
+        return transform.position.x;
     }
 
     public void FlapTheBird()
