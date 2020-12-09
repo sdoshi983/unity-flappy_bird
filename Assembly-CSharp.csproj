@@ -57,8 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraScripts\CameraScript.cs" />
-    <Compile Include="Assets\Scripts\BirdScripts\BirdScript.cs" />
     <Compile Include="Assets\Scripts\CollectorsScripts\BGCollector.cs" />
+    <Compile Include="Assets\Scripts\BirdScripts\BirdScript.cs" />
+    <Compile Include="Assets\Scripts\CollectorsScripts\PipeCollector.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
