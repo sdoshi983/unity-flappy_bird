@@ -94,7 +94,7 @@ TextureImporter:
     second: Ground
   - first:
       213: 7463879149399538272
-    second: Flappy Bird Sprites_30
+    second: GoToMenuButton
   - first:
       213: 7665679511463452981
     second: PlayGameButton
@@ -707,7 +707,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flappy Bird Sprites_30
+      name: GoToMenuButton
       rect:
         serializedVersion: 2
         x: 18
