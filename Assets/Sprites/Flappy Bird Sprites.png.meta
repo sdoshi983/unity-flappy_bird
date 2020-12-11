@@ -73,7 +73,7 @@ TextureImporter:
     second: Flappy Bird Sprites_22
   - first:
       213: -6462699529281187060
-    second: Flappy Bird Sprites_23
+    second: GooglePlayGamesButton
   - first:
       213: 3755815422007417192
     second: BronzeMedal
@@ -560,7 +560,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flappy Bird Sprites_23
+      name: GooglePlayGamesButton
       rect:
         serializedVersion: 2
         x: 397
