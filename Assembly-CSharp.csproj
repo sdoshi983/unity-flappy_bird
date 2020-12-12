@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\CollectorsScripts\BGCollector.cs" />
     <Compile Include="Assets\Scripts\BirdScripts\BirdScript.cs" />
     <Compile Include="Assets\Scripts\GameControllers\MenuController.cs" />
+    <Compile Include="Assets\Scripts\SceneFaderScript\SceneFader.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

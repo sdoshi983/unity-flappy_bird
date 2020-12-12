@@ -36,6 +36,11 @@ public class MenuController : MonoBehaviour
             isGreenBirdUnlocked = true;
     }
 
+    public void PlayGame()
+    {
+        SceneFader.instance.FadeIn("Gameplay");
+    }
+
     public void ChangeBird()
     {
         if(GameController.instance.GetSelectedBird() == 0)
